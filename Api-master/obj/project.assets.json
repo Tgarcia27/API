@@ -13579,11 +13579,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ctis\\Downloads\\Api-master\\Api-master\\TriscalWebApi.csproj",
+      "projectUniqueName": "C:\\Projetos\\Triscal\\Api-Triscal\\API\\Api-master\\TriscalWebApi.csproj",
       "projectName": "TriscalWebApi",
-      "projectPath": "C:\\Users\\ctis\\Downloads\\Api-master\\Api-master\\TriscalWebApi.csproj",
+      "projectPath": "C:\\Projetos\\Triscal\\Api-Triscal\\API\\Api-master\\TriscalWebApi.csproj",
       "packagesPath": "C:\\Users\\ctis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ctis\\Downloads\\Api-master\\Api-master\\obj\\",
+      "outputPath": "C:\\Projetos\\Triscal\\Api-Triscal\\API\\Api-master\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

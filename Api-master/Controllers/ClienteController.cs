@@ -59,6 +59,23 @@ namespace TriscalWebApi.Controllers
         {
             using (TransactionScope scope = new TransactionScope())
             {
+               
+                int idade = DateTime.Now.Year - cliente.DataNascimento.Year;
+
+                if (cliente.DataNascimento < DateTime.Now)
+                {
+                    if(DateTime.Now.DayOfYear < cliente.DataNascimento.DayOfYear)
+                    {
+                        idade = idade - 1;
+                    }
+                    else
+                    {
+                        idade = 0;
+                    }
+
+                    cliente.Idade = idade;
+                }
+
                 this._ClienteRepository.Insert(cliente);
                 scope.Complete();
 

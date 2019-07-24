@@ -17,7 +17,8 @@ namespace TriscalWebApi.Models
         public string Rg { get; set; }
         [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}", ApplyFormatInEditMode = true)]
         [DataType(DataType.Date, ErrorMessage = "Uma data válida deve ser informada!")]
-        public DateTime? DataNascimento { get; set; }
+        public DateTime DataNascimento { get; set; }
+        public int Idade { get; set; }
         public IEnumerable<Telefone> Telefones { get; set; }
         public Endereco Endereco { get; set; }
 
