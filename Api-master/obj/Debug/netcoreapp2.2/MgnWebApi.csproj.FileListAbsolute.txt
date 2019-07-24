@@ -1,0 +1,14 @@
+C:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\bin\Debug\netcoreapp2.2\MgnWebApi.deps.json
+C:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\bin\Debug\netcoreapp2.2\MgnWebApi.runtimeconfig.json
+C:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\bin\Debug\netcoreapp2.2\MgnWebApi.runtimeconfig.dev.json
+c:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\bin\Debug\netcoreapp2.2\MgnWebApi.dll
+c:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\bin\Debug\netcoreapp2.2\MgnWebApi.pdb
+c:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\obj\Debug\netcoreapp2.2\MgnWebApi.csprojAssemblyReference.cache
+c:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\obj\Debug\netcoreapp2.2\MgnWebApi.csproj.CoreCompileInputs.cache
+c:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\obj\Debug\netcoreapp2.2\MgnWebApi.RazorAssemblyInfo.cache
+c:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\obj\Debug\netcoreapp2.2\MgnWebApi.RazorAssemblyInfo.cs
+c:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\obj\Debug\netcoreapp2.2\MgnWebApi.AssemblyInfoInputs.cache
+c:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\obj\Debug\netcoreapp2.2\MgnWebApi.AssemblyInfo.cs
+c:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\obj\Debug\netcoreapp2.2\MgnWebApi.RazorTargetAssemblyInfo.cache
+c:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\obj\Debug\netcoreapp2.2\MgnWebApi.dll
+c:\Users\hall_\OneDrive\Documentos\Visual Studio 2015\Projects\MgnWebApi\obj\Debug\netcoreapp2.2\MgnWebApi.pdb

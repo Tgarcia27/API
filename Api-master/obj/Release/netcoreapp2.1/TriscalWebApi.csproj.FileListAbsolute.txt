@@ -1,0 +1,5 @@
+C:\Users\ctis\Downloads\Api-master\Api-master\obj\Release\netcoreapp2.1\TriscalWebApi.csproj.CoreCompileInputs.cache
+C:\Users\ctis\Downloads\Api-master\Api-master\obj\Release\netcoreapp2.1\TriscalWebApi.RazorAssemblyInfo.cache
+C:\Users\ctis\Downloads\Api-master\Api-master\obj\Release\netcoreapp2.1\TriscalWebApi.RazorAssemblyInfo.cs
+C:\Users\ctis\Downloads\Api-master\Api-master\obj\Release\netcoreapp2.1\TriscalWebApi.AssemblyInfoInputs.cache
+C:\Users\ctis\Downloads\Api-master\Api-master\obj\Release\netcoreapp2.1\TriscalWebApi.AssemblyInfo.cs

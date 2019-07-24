@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriscalWebApi", "TriscalWebApi.csproj", "{0962395A-1937-4106-BF14-0CE3C95E0FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI.Testes", "WebAPI.Testes\WebAPI.Testes.csproj", "{5E521BF8-A3D2-48AA-B340-53D474B8D593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0962395A-1937-4106-BF14-0CE3C95E0FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0962395A-1937-4106-BF14-0CE3C95E0FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0962395A-1937-4106-BF14-0CE3C95E0FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0962395A-1937-4106-BF14-0CE3C95E0FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E521BF8-A3D2-48AA-B340-53D474B8D593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E521BF8-A3D2-48AA-B340-53D474B8D593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E521BF8-A3D2-48AA-B340-53D474B8D593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E521BF8-A3D2-48AA-B340-53D474B8D593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F0CA025-5C30-4764-8A65-212828E88297}
+	EndGlobalSection
+EndGlobal

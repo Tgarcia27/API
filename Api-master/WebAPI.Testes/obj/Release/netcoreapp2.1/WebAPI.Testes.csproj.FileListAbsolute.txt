@@ -1,0 +1,4 @@
+C:\Users\ctis\Downloads\Api-master\Api-master\WebAPI.Testes\obj\Release\netcoreapp2.1\WebAPI.Testes.csprojAssemblyReference.cache
+C:\Users\ctis\Downloads\Api-master\Api-master\WebAPI.Testes\obj\Release\netcoreapp2.1\WebAPI.Testes.csproj.CoreCompileInputs.cache
+C:\Users\ctis\Downloads\Api-master\Api-master\WebAPI.Testes\obj\Release\netcoreapp2.1\WebAPI.Testes.AssemblyInfoInputs.cache
+C:\Users\ctis\Downloads\Api-master\Api-master\WebAPI.Testes\obj\Release\netcoreapp2.1\WebAPI.Testes.AssemblyInfo.cs
